@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1079223790444",
+    "firebase_url": "https://ddbox-427e4-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ddbox-427e4",
+    "storage_bucket": "ddbox-427e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079223790444:android:947b4a123a8ae3a78b6149",
+        "android_client_info": {
+          "package_name": "com.ddbox.app.ddbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079223790444-vvaq7sujkigomjjjg2l9bcfesqo2gjvc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ddbox.app.ddbox",
+            "certificate_hash": "d68610f836284dba03e00ae4e257c5279521ba65"
+          }
+        },
+        {
+          "client_id": "1079223790444-judrhmgubdr8cjcq15fsjj6g4eof89ij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdF2eNNYcYVCVsWUeF99mRJMLKjnvnIXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079223790444-judrhmgubdr8cjcq15fsjj6g4eof89ij.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1079223790444-jbelovjl3etfav1g9tl21ma6stb8oit1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ddbox.app.ddbox"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
